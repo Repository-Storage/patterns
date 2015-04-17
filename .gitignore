@@ -1,0 +1,32 @@
+bin
+build
+.mock
+.classpath
+.gradle
+.project
+.settings
+.springBeans
+.DS_Store
+.vagrant
+*.class
+*.MF
+out
+.DS_Store
+*.swp
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea
+
+#winmerge backups
+*.bak
+
+#log  files
+*.log
