@@ -1,0 +1,1 @@
+23 GOF design patterns
